@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/720833cc153147d6b2d692e55e969e6f/artifacts
+end_time: 1720128750903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 720833cc153147d6b2d692e55e969e6f
+run_name: fun-squirrel-212
+run_uuid: 720833cc153147d6b2d692e55e969e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128748067
+status: 3
+tags: []
+user_id: pedro

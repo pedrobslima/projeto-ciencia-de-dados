@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/ba7c16b1c2fa437384038b1a25a0b6ba/artifacts
+end_time: 1720128855647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba7c16b1c2fa437384038b1a25a0b6ba
+run_name: rare-goose-67
+run_uuid: ba7c16b1c2fa437384038b1a25a0b6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128852871
+status: 3
+tags: []
+user_id: pedro

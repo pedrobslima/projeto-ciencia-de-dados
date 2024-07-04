@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/7736039f015f4b2482fe3bbb03e40241/artifacts
+end_time: 1720128522072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7736039f015f4b2482fe3bbb03e40241
+run_name: trusting-cow-123
+run_uuid: 7736039f015f4b2482fe3bbb03e40241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128519231
+status: 3
+tags: []
+user_id: pedro

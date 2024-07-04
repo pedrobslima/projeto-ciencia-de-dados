@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/f26b5a01e068411b8aa08068a5a47649/artifacts
+end_time: 1720128620736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f26b5a01e068411b8aa08068a5a47649
+run_name: tasteful-cub-465
+run_uuid: f26b5a01e068411b8aa08068a5a47649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128617935
+status: 3
+tags: []
+user_id: pedro

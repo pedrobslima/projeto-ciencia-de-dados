@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/002e07610add45329858ce0f55644a9f/artifacts
+end_time: 1720128779364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 002e07610add45329858ce0f55644a9f
+run_name: resilient-fawn-721
+run_uuid: 002e07610add45329858ce0f55644a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128776500
+status: 3
+tags: []
+user_id: pedro

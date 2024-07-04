@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/61281cb1070e4578a8737c68a626657e/artifacts
+end_time: 1720128583999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61281cb1070e4578a8737c68a626657e
+run_name: upset-ray-15
+run_uuid: 61281cb1070e4578a8737c68a626657e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128581181
+status: 3
+tags: []
+user_id: pedro

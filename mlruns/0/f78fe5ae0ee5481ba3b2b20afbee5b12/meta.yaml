@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/f78fe5ae0ee5481ba3b2b20afbee5b12/artifacts
+end_time: 1720128858464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78fe5ae0ee5481ba3b2b20afbee5b12
+run_name: clumsy-stork-535
+run_uuid: f78fe5ae0ee5481ba3b2b20afbee5b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128855654
+status: 3
+tags: []
+user_id: pedro

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/fc3c28bf1f2e4818a3a605f65ceef36c/artifacts
+end_time: 1720128767918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc3c28bf1f2e4818a3a605f65ceef36c
+run_name: gregarious-dog-599
+run_uuid: fc3c28bf1f2e4818a3a605f65ceef36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128765088
+status: 3
+tags: []
+user_id: pedro

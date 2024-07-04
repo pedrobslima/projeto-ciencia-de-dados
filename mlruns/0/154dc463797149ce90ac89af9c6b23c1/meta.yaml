@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/154dc463797149ce90ac89af9c6b23c1/artifacts
+end_time: 1720128691482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 154dc463797149ce90ac89af9c6b23c1
+run_name: spiffy-boar-118
+run_uuid: 154dc463797149ce90ac89af9c6b23c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128688648
+status: 3
+tags: []
+user_id: pedro

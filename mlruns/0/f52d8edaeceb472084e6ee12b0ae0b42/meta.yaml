@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/f52d8edaeceb472084e6ee12b0ae0b42/artifacts
+end_time: 1720128697118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f52d8edaeceb472084e6ee12b0ae0b42
+run_name: dapper-stork-377
+run_uuid: f52d8edaeceb472084e6ee12b0ae0b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128694296
+status: 3
+tags: []
+user_id: pedro

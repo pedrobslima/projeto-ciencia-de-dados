@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/82db089e24c14c15913ee976be6a2f3a/artifacts
+end_time: 1720128680145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82db089e24c14c15913ee976be6a2f3a
+run_name: learned-crab-915
+run_uuid: 82db089e24c14c15913ee976be6a2f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128677362
+status: 3
+tags: []
+user_id: pedro

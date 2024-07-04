@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/42b26f34b5cc4e80b4074b8dd1d473fa/artifacts
+end_time: 1720128674482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b26f34b5cc4e80b4074b8dd1d473fa
+run_name: entertaining-cub-606
+run_uuid: 42b26f34b5cc4e80b4074b8dd1d473fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128671680
+status: 3
+tags: []
+user_id: pedro

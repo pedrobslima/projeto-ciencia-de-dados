@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/eaa99c11077d47259a9d88e6578ee91d/artifacts
+end_time: 1720128694288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa99c11077d47259a9d88e6578ee91d
+run_name: mysterious-gull-150
+run_uuid: eaa99c11077d47259a9d88e6578ee91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128691490
+status: 3
+tags: []
+user_id: pedro

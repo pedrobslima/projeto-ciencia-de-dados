@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/3775d41c72b44052ac2e972a37c0a4cf/artifacts
+end_time: 1720128816101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3775d41c72b44052ac2e972a37c0a4cf
+run_name: incongruous-wasp-812
+run_uuid: 3775d41c72b44052ac2e972a37c0a4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128813292
+status: 3
+tags: []
+user_id: pedro

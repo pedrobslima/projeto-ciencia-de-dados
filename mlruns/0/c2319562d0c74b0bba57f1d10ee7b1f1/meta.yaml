@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/c2319562d0c74b0bba57f1d10ee7b1f1/artifacts
+end_time: 1720128606633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2319562d0c74b0bba57f1d10ee7b1f1
+run_name: stately-mare-812
+run_uuid: c2319562d0c74b0bba57f1d10ee7b1f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128603797
+status: 3
+tags: []
+user_id: pedro

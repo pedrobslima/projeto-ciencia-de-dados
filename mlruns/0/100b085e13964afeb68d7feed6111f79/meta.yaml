@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/100b085e13964afeb68d7feed6111f79/artifacts
+end_time: 1720128538952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 100b085e13964afeb68d7feed6111f79
+run_name: casual-dog-349
+run_uuid: 100b085e13964afeb68d7feed6111f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128536138
+status: 3
+tags: []
+user_id: pedro

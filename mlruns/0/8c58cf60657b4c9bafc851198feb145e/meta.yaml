@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/8c58cf60657b4c9bafc851198feb145e/artifacts
+end_time: 1720128733883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c58cf60657b4c9bafc851198feb145e
+run_name: luminous-swan-227
+run_uuid: 8c58cf60657b4c9bafc851198feb145e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128731073
+status: 3
+tags: []
+user_id: pedro

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/d5fbe35f713e41c2819d8317ded6dc5e/artifacts
+end_time: 1720128725382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5fbe35f713e41c2819d8317ded6dc5e
+run_name: fearless-swan-279
+run_uuid: d5fbe35f713e41c2819d8317ded6dc5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128722588
+status: 3
+tags: []
+user_id: pedro

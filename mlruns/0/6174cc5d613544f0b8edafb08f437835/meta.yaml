@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/0/6174cc5d613544f0b8edafb08f437835/artifacts
+end_time: 1720128824608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6174cc5d613544f0b8edafb08f437835
+run_name: languid-bird-696
+run_uuid: 6174cc5d613544f0b8edafb08f437835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720128821808
+status: 3
+tags: []
+user_id: pedro
