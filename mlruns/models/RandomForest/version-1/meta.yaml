@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720557714827
+current_stage: None
+description: null
+last_updated_timestamp: 1720557714827
+name: RandomForest
+run_id: d939de32930349e683500415a6fbf638
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/d939de32930349e683500415a6fbf638/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/d939de32930349e683500415a6fbf638/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/d4e70a1de8144c3fa3c6232ee5169a2d/artifacts
+end_time: 1720544799494
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: d4e70a1de8144c3fa3c6232ee5169a2d
+run_name: spiffy-mink-90
+run_uuid: d4e70a1de8144c3fa3c6232ee5169a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720544710406
+status: 3
+tags: []
+user_id: pedro

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/f1908843acef44aabbca3f1d2a55ed7e/artifacts
+end_time: 1720557477950
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: f1908843acef44aabbca3f1d2a55ed7e
+run_name: sedate-grouse-957
+run_uuid: f1908843acef44aabbca3f1d2a55ed7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720557473483
+status: 3
+tags: []
+user_id: pedro

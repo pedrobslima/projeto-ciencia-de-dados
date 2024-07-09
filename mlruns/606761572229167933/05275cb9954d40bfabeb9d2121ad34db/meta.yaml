@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/05275cb9954d40bfabeb9d2121ad34db/artifacts
+end_time: 1720545998584
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: 05275cb9954d40bfabeb9d2121ad34db
+run_name: trusting-finch-495
+run_uuid: 05275cb9954d40bfabeb9d2121ad34db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720545541818
+status: 3
+tags: []
+user_id: pedro
