@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/56a24fdbf6bc41b88d8c162d516a0dca/artifacts
+end_time: 1720639572529
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: 56a24fdbf6bc41b88d8c162d516a0dca
+run_name: enthused-bee-762
+run_uuid: 56a24fdbf6bc41b88d8c162d516a0dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720639568433
+status: 3
+tags: []
+user_id: pedro

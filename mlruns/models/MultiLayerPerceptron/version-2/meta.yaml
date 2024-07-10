@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720639572349
+current_stage: None
+description: null
+last_updated_timestamp: 1720639572349
+name: MultiLayerPerceptron
+run_id: 56a24fdbf6bc41b88d8c162d516a0dca
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/56a24fdbf6bc41b88d8c162d516a0dca/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/56a24fdbf6bc41b88d8c162d516a0dca/artifacts/model
+user_id: null
+version: 2
