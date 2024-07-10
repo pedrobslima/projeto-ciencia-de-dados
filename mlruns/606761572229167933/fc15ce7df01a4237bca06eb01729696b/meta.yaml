@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/fc15ce7df01a4237bca06eb01729696b/artifacts
+end_time: 1720623442312
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: fc15ce7df01a4237bca06eb01729696b
+run_name: nervous-crow-954
+run_uuid: fc15ce7df01a4237bca06eb01729696b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720623439122
+status: 3
+tags: []
+user_id: pedro

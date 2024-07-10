@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720623442293
+current_stage: None
+description: null
+last_updated_timestamp: 1720623442293
+name: KNN
+run_id: fc15ce7df01a4237bca06eb01729696b
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/fc15ce7df01a4237bca06eb01729696b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/fc15ce7df01a4237bca06eb01729696b/artifacts/model
+user_id: null
+version: 3

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720623409432
+current_stage: None
+description: null
+last_updated_timestamp: 1720623409432
+name: DecisionTree
+run_id: 9554a79947e84e36b618e790820edd84
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/9554a79947e84e36b618e790820edd84/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/9554a79947e84e36b618e790820edd84/artifacts/model
+user_id: null
+version: 3
