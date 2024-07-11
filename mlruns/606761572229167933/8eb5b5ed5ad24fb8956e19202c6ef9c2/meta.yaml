@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/8eb5b5ed5ad24fb8956e19202c6ef9c2/artifacts
+end_time: 1720717126198
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: 8eb5b5ed5ad24fb8956e19202c6ef9c2
+run_name: blushing-horse-855
+run_uuid: 8eb5b5ed5ad24fb8956e19202c6ef9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720717120177
+status: 3
+tags: []
+user_id: pedro
