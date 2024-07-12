@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/67b3ae6157964a35b1f745bba6d9cdcf/artifacts
+end_time: 1720742744901
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: 67b3ae6157964a35b1f745bba6d9cdcf
+run_name: bald-ram-889
+run_uuid: 67b3ae6157964a35b1f745bba6d9cdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720741531906
+status: 3
+tags: []
+user_id: pedro

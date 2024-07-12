@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/cd/projeto-ciencia-de-dados/mlruns/606761572229167933/48bdc1a9821a4fbf9b93bc66d15c36f9/artifacts
+end_time: 1720742306406
+entry_point_name: ''
+experiment_id: '606761572229167933'
+lifecycle_stage: active
+run_id: 48bdc1a9821a4fbf9b93bc66d15c36f9
+run_name: upset-shrew-319
+run_uuid: 48bdc1a9821a4fbf9b93bc66d15c36f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720742298728
+status: 3
+tags: []
+user_id: pedro
